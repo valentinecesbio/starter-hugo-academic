@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: valentine.bellet@univ-toulouse.fr
-  phone: 0604414835
   address:
     street: 18 avenue Edouard Belin
     city: TOULOUSE
