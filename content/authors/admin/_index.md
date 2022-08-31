@@ -1,12 +1,11 @@
 ---
 role: PhD Student in Artificial Intelligence and Remote Sensing
-avatar_filename: img_1923.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
   - Remote-Sensing
-  - ""
 social:
   - icon: envelope
     icon_pack: fas
