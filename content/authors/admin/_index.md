@@ -1,5 +1,6 @@
 ---
 role: PhD Student in Artificial Intelligence and Remote Sensing
+avatar_filename: img_1923.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -19,7 +20,7 @@ education:
   courses:
     - course: Engineering Degree in Automatic and Electronic
       institution: INSA TOULOUSE
-      year: 2018
+      year: 2019
 superuser: true
 highlight_name: true
 title: Valentine Bellet
