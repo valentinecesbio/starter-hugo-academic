@@ -16,7 +16,7 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 40
-  - name: Popular Science
+  - name: Mediation
     url: '#mediation'
     weight: 50
   - name: Contact
