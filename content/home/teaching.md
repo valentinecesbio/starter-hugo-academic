@@ -1,8 +1,8 @@
 ---
 widget: accomplishments
-title: Mediation
+title: Teaching
 headless: true # This file represents a page section.
-weight: 50
+weight: 40
 
 # ... Put Your Section Options Here (title etc.) ...
 

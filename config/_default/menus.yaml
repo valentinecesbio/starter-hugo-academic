@@ -8,15 +8,18 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 20
   - name: Talks
     url: '#talks'
     weight: 30
+  - name: Experience
+    url: '#experience'
+    weight: 35
   - name: Teaching
     url: '#teaching'
     weight: 40
-  - name: Popular Science
+  - name: Mediation
     url: '#mediation'
     weight: 50
   - name: Contact
