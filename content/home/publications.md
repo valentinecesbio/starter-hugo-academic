@@ -2,6 +2,7 @@
 widget: featured
 headless: true # This file represents a page section.
 weight: 20 # Order that this section appears on the page.
+title: Publications
 
 # ... Put Your Section Options Here (title etc.) ...
 
